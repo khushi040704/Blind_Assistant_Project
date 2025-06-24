@@ -1,0 +1,12 @@
+opencv-python
+pytesseract
+Pillow
+torch
+torchvision
+transformers
+easyocr
+SpeechRecognition
+pyaudio
+ultralytics
+playsound
+gTTS
